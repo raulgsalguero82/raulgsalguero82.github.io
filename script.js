@@ -14,6 +14,8 @@ function randomPalette() {
     return colors
 }
 
+
+
 function generateRules() {
     let i = 1
     let colors = randomPalette()
